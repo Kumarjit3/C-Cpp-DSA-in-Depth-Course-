@@ -52,7 +52,5 @@ int main()
         cout<<(*i2)<<" ";
     }
     cout<<endl;
-
-
-
+    return 0;
 }
